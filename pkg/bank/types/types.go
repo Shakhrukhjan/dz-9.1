@@ -10,6 +10,7 @@ type currency string
 
 type Money int
 
+
 type PaymentSource struct {
 	Type    string // 'card'
 	Number  string // номер вида '5058 xxxx xxxx 8888'
