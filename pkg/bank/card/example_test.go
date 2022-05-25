@@ -11,7 +11,7 @@ func ExamplePaymentSource() {
 			{
 				PAN:     "5058 xxxx xxxx 8888",
 				Balance: 25_000_00, Active: true,
-			},
+			}, 
 			{
 				PAN:     "5058 xxxx xxxx 8888",
 				Balance: 30_000_00,

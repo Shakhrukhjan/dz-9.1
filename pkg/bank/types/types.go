@@ -9,7 +9,7 @@ const (
 type currency string
 
 type Money int
-
+ 
 
 type PaymentSource struct {
 	Type    string // 'card'
